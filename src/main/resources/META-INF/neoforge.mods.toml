@@ -9,8 +9,9 @@ version = "${mod_version}"
 displayName = "${mod_name}"
 description = '''${mod_description}'''
 authors = "${mod_authors}"
+logoFile = "icon.png"
 
-[[dependencies.${mod_id}]]
+[[dependencies."${mod_id}"]]
 modId = "minecraft"
 type = "required"
 versionRange = "[1.20,)"
