@@ -1,5 +1,9 @@
 # LetMeSymlink
 
+[![Discord](https://img.shields.io/discord/1422675823009202248?style=for-the-badge&logo=discord&label=Discord&color=rgb(88%2C%20101%2C%20242)%20)](https://cootshk.dev/discord)
+[![Modrinth](https://img.shields.io/modrinth/dt/letmesymlink?style=for-the-badge&logo=modrinth&label=Downloads&color=rgb(00%2CAF%2C5C)%20)](https://modrinth.com/mod/letmesymlink)
+
+
 A mod that disables the **The world folder contains symbolic links** warning.
 ![The warning, in Minecraft.](warning.png)
 
