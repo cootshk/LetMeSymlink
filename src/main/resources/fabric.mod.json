@@ -1,0 +1,23 @@
+{
+    "schemaVersion": 1,
+    "id": "${mod_id}",
+    "version": "${mod_version}",
+    "name": "${mod_name}",
+    "description": "${mod_description}",
+    "authors": [
+        "${mod_authors}"
+    ],
+    "environment": "*",
+    "entrypoints": {
+        "preLaunch": [
+            "dev.cootshk.letmesymlink.fabric.LetMeSymlinkFabric"
+        ]
+    },
+    "depends": {
+        "minecraft": "${fabric_minecraft_version}"
+    },
+    "suggests": {
+        "fabric-loader": ">=${fabric_loader_version}"
+    },
+    "license": "${mod_license}"
+}

@@ -1,0 +1,8 @@
+{
+  "pack": {
+    "description": "letmesymlink resources",
+    "pack_format": 15,
+    "supported_formats": [13, 90],
+    "min_format": 13
+  }
+}
